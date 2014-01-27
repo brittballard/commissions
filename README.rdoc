@@ -1,1 +1,1 @@
-don't fuck with it.
+Highly flexible calculation engine.
